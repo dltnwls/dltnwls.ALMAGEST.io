@@ -158,8 +158,8 @@ node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/di
 node_modules/framer/node_modules/framer-motion/dist/framer-motion.d.ts
 node_modules/framer/node_modules/csstype/package.json
 node_modules/framer/node_modules/csstype/index.d.ts
-build/framer.js.map
-build/framer.js
+node_modules/framer/build/framer.js.map
+node_modules/framer/build/framer.js
 node_modules/framer/build/framer.debug.js.map
 node_modules/framer/build/framer.debug.js
 node_modules/framer/build/framer.d.ts
@@ -367,6 +367,7 @@ design/images/qROHOEX96pMS0KBlVvVhBLEByX0.png
 design/images/lhd5Km8nfPS7E4KBr50B04uGQ.png
 design/images/lYWIyweW2wchmoWehLvHiP00bg.png
 design/images/lDDSzjztAUkGDy13P6D45C2nw.png
+design/images/j7rJCsVPayIw9ISDD6BE5k88ou0.jpg
 design/images/j2VzsWNTK2qfmx9HVHE8I9IojI.png
 design/images/gYX92pa8RCxcewIFvvrzMaUze54.png
 design/images/gUBa9T74dDXQPIAAsVc9zzRR9F0.png
@@ -385,6 +386,7 @@ design/images/UlxALlrLxpMs1DGTSfcikAT6lhk.png
 design/images/SL78F3faSTxzL4rWARDcDSZIXxs.png
 design/images/R03Axe159W2EH3KemE80TTWBAs.png
 design/images/Qy265WW4p9SY6wRH0nymjzq8A.mp4
+design/images/QGhfyL9wUa9DvlQSXQWESuOB9I.mp4
 design/images/JhiI28LkWX6hpfe9upz08hw2XEA.png
 design/images/I3AcD5hY6xbcylZ3E1B743iISs.jpg
 design/images/H0cAZhu1ig021oxhQVEAIJpxrWI.png
@@ -395,6 +397,7 @@ design/images/EzbbSj1ougI8x7FWUBhfWBjbido.png
 design/images/Bs91ZB28pWdEjFTkx4RPfHNWXuU.png
 design/images/ACCLeWPYXmfzyElawk3XC5D4IkA.png
 design/images/A4iD8e5USxdxdujkU3rJnp3MqWM.png
+design/images/8w5lXl3mcwOKHryJzmG65453NdU.png
 design/images/80JC9hLN8aemqPAISx9ef5Fhc0.png
 design/images/4pMnvLG1PBCvTteYOKvRTFg9uqo.jpg
 design/images/4kgCF5C8AShV8xFNLdKRAt0Nhs0.png
