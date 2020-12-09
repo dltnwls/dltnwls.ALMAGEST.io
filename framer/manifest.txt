@@ -158,8 +158,8 @@ node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/di
 node_modules/framer/node_modules/framer-motion/dist/framer-motion.d.ts
 node_modules/framer/node_modules/csstype/package.json
 node_modules/framer/node_modules/csstype/index.d.ts
-build/framer.js.map
-build/framer.js
+node_modules/framer/build/framer.js.map
+node_modules/framer/build/framer.js
 node_modules/framer/build/framer.debug.js.map
 node_modules/framer/build/framer.debug.js
 node_modules/framer/build/framer.d.ts
@@ -460,6 +460,7 @@ design/images/TAgnhrEMKmPnlNa5mfyazvAOIc.jpg
 design/images/SL78F3faSTxzL4rWARDcDSZIXxs.png
 design/images/R03Axe159W2EH3KemE80TTWBAs.png
 design/images/Qy265WW4p9SY6wRH0nymjzq8A.mp4
+design/images/QwfMtbcE7OolD73K8bEB5DO9hyg.png
 design/images/Qgq1eLgKkQUn3RnBMXU9k5E54pM.png
 design/images/QGhfyL9wUa9DvlQSXQWESuOB9I.mp4
 design/images/OQDjds1oguBsbbJ9ZcWpLYfYEow.png
@@ -483,7 +484,6 @@ design/images/7D8GinvSGIIKyyKGG6HkKxWV2fs.png
 design/images/6gbrkIFrQgkavTXpMQhsHaP5U4.png
 design/images/4pMnvLG1PBCvTteYOKvRTFg9uqo.jpg
 design/images/4kgCF5C8AShV8xFNLdKRAt0Nhs0.png
-design/images/4Aeo3Wg9hdn3SAHSKiUH53qGncM.jpg
 design/images/2PcG9kKFfo8AjKfWbZDR0tWMIFI.png
 design/images/1mFSo3kWmykFVQdGMsK8w31C8O0.mp4
 design/images/07pDWQt6ENno7w7lS0TeDrBKnc0.png
