@@ -388,16 +388,6 @@ node_modules/@framer/janvanwtf.youtube/code/canvas.tsx
 node_modules/@framer/janvanwtf.youtube/code/YouTube.tsx
 node_modules/@framer/janvanwtf.youtube/build/index.js
 node_modules/@framer/janvanwtf.youtube/README.md
-node_modules/@framer/guischneider.video-player/tsconfig.json
-node_modules/@framer/guischneider.video-player/package.json
-node_modules/@framer/guischneider.video-player/metadata/icon.png
-node_modules/@framer/guischneider.video-player/metadata/artwork.png
-node_modules/@framer/guischneider.video-player/dist/index.js
-node_modules/@framer/guischneider.video-player/design/document.json
-node_modules/@framer/guischneider.video-player/design/assets/video.mov
-node_modules/@framer/guischneider.video-player/code/canvas.tsx
-node_modules/@framer/guischneider.video-player/code/VideoPlayer.tsx
-node_modules/@framer/guischneider.video-player/README.md
 node_modules/@framer/framer.default/tsconfig.json
 node_modules/@framer/framer.default/package.json
 node_modules/@framer/framer.default/dist/index.js
